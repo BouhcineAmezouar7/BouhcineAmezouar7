@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bouhcine Amezouar  
 
 💻 **Full Stack Web Developer** | 🚀 Building modern web applications  
+🎓 **Student at 1337 School (42 Network), Benguerir – Morocco**  
 
 I work with **Laravel, Next.js, React.js, SQL, MongoDB, C, and C++**, creating clean, scalable, and responsive solutions.  
 
@@ -22,7 +23,7 @@ I work with **Laravel, Next.js, React.js, SQL, MongoDB, C, and C++**, creating c
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000&style=for-the-badge)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)  
 
 ### 🔹 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)  
 
 ---
 
