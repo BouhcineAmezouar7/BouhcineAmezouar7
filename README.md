@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bouhcine+Amezouar;Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bouhcine+Amezouar;Full+Stack+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/BouhcineAmezouar7">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:bouhcine.amezouar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
