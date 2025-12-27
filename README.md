@@ -26,17 +26,13 @@ const bouhcine = {
             css: ["TailwindCSS"]
         },
         backEnd: {
-            php: ["Laravel"],
+            php: ["Laravel"]
         },
         databases: ["MySQL", "MongoDB"]
     },
-    currentFocus: "Building scalable full-stack applications",
-    passions: [
-        "Crafting responsive & user-friendly web apps",
-    ]
+    currentFocus: "Building scalable full-stack applications"
 };
 ```
-
 
 ---
 
