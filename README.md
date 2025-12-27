@@ -19,7 +19,6 @@
 
 - 🎓 Student at **1337 School (42 Network)** in Benguerir, Morocco
 - 💼 Passionate about crafting **responsive** and **user-friendly** web applications
-- 🌱 Currently exploring advanced **backend architectures** and **microservices**
 - ⚡ Fun fact: I love solving algorithmic challenges in **C** and **C++**
 
 ---
@@ -71,14 +70,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
 
 ---
 
