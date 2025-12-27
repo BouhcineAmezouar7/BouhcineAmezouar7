@@ -38,14 +38,6 @@ const bouhcine = {
 
 <div align="center">
 
-### 📫 Let's Connect!
-
-*Always open to interesting projects and collaborations*
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
----
-
 ⭐️ *"Clean code, clean design, better web."* ⭐️
 
 </div>
