@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FF3B1F&center=true&vCenter=true&width=570&lines=%3E+Building+digital+experiences_;%3E+Engineering+backend+systems_;%3E+Learning+how+things+work+under+the+hood_;%3E+Always+building.+Always+learning." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=FF3B1F&center=true&vCenter=true&width=570&lines=%3E+Building+digital+experiences_;%3E+Full+stack+developer;%3E+Learning+how+things+work+under+the+hood_;%3E+Always+building.+Always+learning." alt="Animated developer introduction"/>
 
 <br/><br/>
 
